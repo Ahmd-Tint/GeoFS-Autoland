@@ -9,7 +9,11 @@ Why was this made? To answer that question. Well well well. Ever felt how badly 
 
 
 ---
-
+## Features
+Improves the ILS autoland system by adding flaring functionality and autobrakes/spoilers/reverse thrust. Also disconnects upon ground contact.
+## Usage
+To use: Set up a normal ILS approach with the built-in autopilot and the addon will automatically activate.
+---
 
 ## Compatibility and Limitations
 
